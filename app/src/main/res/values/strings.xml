@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wantsy</string>
+    <string name="Rate">Rate This App</string>
+    <string name="shareapp"></string>
+    <string name="Review">Reviews</string>
+    <string name="more">More Apps</string>
+    <string name="exit">Exit</string>
+</resources>
